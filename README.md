@@ -1,13 +1,20 @@
-<h1 align="center">Hi 👋, I'm Vinayak Vispute</h1>
+<h1 align="center">Konichiwa 👋, I'm Vinayak Vispute</h1>
 <h3 align="center">A Passionate Student Highly Interested in Cyber Security ,Web3 Security ,IOT ,Blockchain And in Artificial Intelligence and Machine Learning</h3>
 
 <p align="left"> <a href="https://twitter.com/vinayakvispute7" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakvispute7?logo=twitter&style=for-the-badge" alt="vinayakvispute7" /></a> </p>
+
+[![Vinayak Vispute's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakvispute&show_icons=true&theme=radical)](https://github.com/vinayakvispute/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VinayakVispute&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Guys+Whatsup)](https://git.io/typing-svg)
+
 
 - 🌱 I’m currently learning **DSA in C++, Database Management & Networking**
 
 - 📫 How to reach me **vinayakvispute4@gmail.com**
 
-- ⚡ Fun fact **I want to Learn Everything but I am too Lazy**
+- ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
