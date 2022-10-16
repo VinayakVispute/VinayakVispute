@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/vinayakvispute7" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakvispute7?logo=twitter&style=for-the-badge" alt="vinayakvispute7" /></a> </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakvispute&show_icons=true&locale=en&theme=radical&layout=compact" alt="vinayakvispute" style="height: 130px;max-width: 100%;margin: 50px;"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakvispute&show_icons=true&locale=en&theme=radical&layout=compact" alt="vinayakvispute" style="height: 130px;max-width: 100%;margin: 50px;"/></p>
 
 [![Vinayak Vispute's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakvispute&show_icons=true&theme=radical)](https://github.com/vinayakvispute/github-readme-stats)
 
