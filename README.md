@@ -1,3 +1,5 @@
+
+
 <img src="download.png">
 <h3 align="left">- A Passionate Student Highly Interested in Cyber Security ,Web3 Security ,IOT ,Blockchain and in Artificial Intelligence and Machine Learning</h3>
 
@@ -11,14 +13,22 @@
 - 💬 Ask me About **Anime ,PC Setups and CyberSecurity**
 
 <p align="left"> <a href="https://twitter.com/vinayakvispute7" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakvispute7?logo=twitter&style=for-the-badge" alt="vinayakvispute7" /></a> </p>
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakvispute&show_icons=true&locale=en&theme=radical&layout=compact" alt="vinayakvispute" style="height: 130px;max-width: 100%;margin: 50px;"/></p>
 
 [![Vinayak Vispute's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakvispute&show_icons=true&theme=radical)](https://github.com/vinayakvispute/github-readme-stats)
 
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=VinayakVispute&theme=radical&hide_border=false)](https://git.io/streak-stats)
-<img src="programming.gif" alt="Computer man" style="width:48px;height:48px;">
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Guys+Whatsup)](https://git.io/typing-svg)
+</br></br>
+<img align="right" class="supersayain" src="1936.gif" alt="super sayain man" style="width: 408px;height: 400px;max-width: 100%;margin-right: 100px;display: inline-block;">
+
 
 
 - 🌱 I’m currently learning **DSA in C++, Database Management & Networking**
