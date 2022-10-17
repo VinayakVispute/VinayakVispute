@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="logo.svg" width="400" height="400" alt="css-in-readme">
-</div>
 <img src="download.png">
 <h3 align="left">- A Passionate Student Highly Interested in Cyber Security ,Web3 Security ,IOT ,Blockchain and in Artificial Intelligence and Machine Learning</h3>
 
