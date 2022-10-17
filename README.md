@@ -29,14 +29,6 @@
 <img align="right" class="supersayain" src="1936.gif" alt="super sayain man" style="width: 408px;height: 300px;max-width: 100%;margin-right: 100px;display: inline-block;">
 
 
-
-- 🌱 I’m currently learning **DSA in C++, Database Management & Networking**
-
-- 📫 How to reach me **vinayakvispute4@gmail.com**
-
-- ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories.**
-
-
 <br>
 <br>
   <br>
