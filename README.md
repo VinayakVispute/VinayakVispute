@@ -10,7 +10,11 @@
 - ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories.**
 - 💬 Ask me About **Anime ,PC Setups and CyberSecurity**
 
+
 <p align="left"> <a href="https://twitter.com/vinayakvispute7" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakvispute7?logo=twitter&style=for-the-badge" alt="vinayakvispute7" /></a> </p>
+<br>
+<h4 align="center">⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</h4>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakvispute&show_icons=true&locale=en&theme=radical&layout=compact" alt="vinayakvispute" style="height: 130px;max-width: 100%;margin: 50px;"/></p>
 
