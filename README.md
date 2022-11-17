@@ -16,7 +16,7 @@
 <h4 align="center">⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</h4>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakvispute&show_icons=true&locale=en&theme=radical&layout=compact" alt="vinayakvispute" style="height: 130px;max-width: 100%;margin: 50px;"/></p>
+
 
 [![Vinayak Vispute's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakvispute&show_icons=true&theme=radical)](https://github.com/vinayakvispute/github-readme-stats)
 
