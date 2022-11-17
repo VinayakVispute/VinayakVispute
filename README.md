@@ -16,13 +16,14 @@
 <h4 align="center">⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</h4>
 <br>
 
+![GitHub Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakVispute&layout=compact&langs_count=5&theme=algolia)
+<br>
+
+[![Vinayak Vispute's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakvispute&show_icons=true&theme=algolia)](https://github.com/vinayakvispute/github-readme-stats)
 
 
-[![Vinayak Vispute's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakvispute&show_icons=true&theme=radical)](https://github.com/vinayakvispute/github-readme-stats)
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VinayakVispute&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VinayakVispute&theme=algolia)](https://git.io/streak-stats)
 
 
 
