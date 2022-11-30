@@ -10,6 +10,7 @@
 - ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories.**
 - 💬 Ask me About **Anime ,PC Setups and CyberSecurity**
 
+![](https://komarev.com/ghpvc/?username=VinayakVispute&color=blueviolet&style=for-the-badge&label=)
 
 <p align="left"> <a href="https://twitter.com/vinayakvispute7" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakvispute7?logo=twitter&style=for-the-badge" alt="vinayakvispute7" /></a> </p>
 <br>
