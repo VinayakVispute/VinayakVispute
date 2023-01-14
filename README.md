@@ -20,7 +20,7 @@
 ![GitHub Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakVispute&layout=compact&langs_count=5&theme=algolia&hide=PowerShell,BatchFile)
 <br>
 
-[![Vinayak Vispute's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakvispute&show_icons=true&theme=algolia)](https://github.com/vinayakvispute/github-readme-stats)
+[![Vinayak Vispute's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakvispute&show_icons=true&theme=algolia&count_private=true)](https://github.com/vinayakvispute/github-readme-stats)
 
 
 
