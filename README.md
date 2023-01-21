@@ -42,6 +42,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <a name="learning-next"></a>
+
+
+
 <br>
 ## 📖  What I am currently learning / improving on
 
@@ -51,7 +54,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <a name="learning-next"></a>
+
 <br>
+
+
+
 ## 👾  What I am interested in learning at some point
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -59,8 +66,15 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+
+
+
+
 <a name="learning-next"></a>
 <br>
+ 
+ <img align="right" alt="Coding" width="400" src="1936.gif">
+ 
 ## 🏗️ IDE I used as per conditions
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -68,7 +82,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-<img align="center" class="supersayain" src="1936.gif" alt="super sayain man" style="width: 408px;height: 300px;max-width: 100%;margin-right: 100px;display: inline-block;">
+
 
 
 <br>
