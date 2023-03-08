@@ -1,4 +1,4 @@
-<img src="download.png">
+<img style="max-width: 100%;height: 301px;" src="github-header-image.png">
 <h3 align="left">- A Passionate Student Highly Interested in Cyber Security ,Web3 Security ,IOT ,Blockchain and in Artificial Intelligence and Machine Learning</h3>
 
 
