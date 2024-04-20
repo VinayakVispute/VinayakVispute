@@ -1,35 +1,41 @@
-<img style="max-width: 100%;height: 301px;" src="github-header-image.png">
-<h3 align="left">- A Passionate Student Highly Interested in Cyber Security ,Web3 Security ,IOT ,Blockchain and in Artificial Intelligence and Machine Learning</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oxygen&weight=900&size=37&duration=2800&pause=2000&color=ffffff&center=true&vCenter=true&random=false&width=940&lines=Konichiwa%2C+I'm+Vinayak+Welcome+to+my+Profile)](https://git.io/typing-svg)
 
+🚀 Hi there! I'm Vinayak Vispute, a Full Stack Developer passionate about MERN (MongoDB, Express.js, React.js, Node.js) stack. I love diving into new tech and helping others do the same.
 
+🧁 I am learning NextJs and AI/ML related Stuff.
 
-- 🌱 I’m currently learning **NextJs, TypeScript & System Design**
+💡 I've joined hackathons, meetups, and events, gaining loads of knowledge along the way. I'm all about spreading the word on open-source projects and guiding newcomers in the tech community.
 
-- 📫 How to reach me **vinayakvispute4@gmail.com**
-
-- ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories.**
-- 🖥 4 times Hackathon Winner 🏆🎉🏆
-- 💬 Ask me About **Anime ,PC Setups and CyberSecurity**
+🌟 Let's connect! I'm eager to collaborate on cool ideas and make things happen together!
 
 ![Views](https://komarev.com/ghpvc/?username=VinayakVispute&color=blueviolet&style=for-the-badge&label=Views)
-<a name="learning-next"></a>
-<br>
-<p align="left"> <a href="https://twitter.com/vinayakvispute7" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakvispute7?logo=twitter&style=for-the-badge" alt="vinayakvispute7" /></a> </p><br>
-<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%; display: inline-block; height: 45px;" data-target="animated-image.originalImage"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Guys+%2C+How+its+Going.;Its+Vinayak+Vispute" alt="Typing SVG" /></a>
+
+
+
+
+
 
 
 <br>
 <h4 align="center">⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</h4>
 <br>
 
+
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinayakvispute&show_icons=true&theme=algolia&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=VinayakVispute&theme=algolia"/>
+	<details>
+  <summary><b>:zap:TOP LANGUAGE </b></summary>
+	
 ![GitHub Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakVispute&layout=compact&langs_count=5&theme=algolia&hide=PowerShell,BatchFile)
-<br>
+	
+	
+</details>
+</p>
 
-[![Vinayak Vispute's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayakvispute&show_icons=true&theme=algolia&count_private=true)](https://github.com/vinayakvispute/github-readme-stats)
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VinayakVispute&theme=algolia)](https://git.io/streak-stats)
 
 
 ## 🛠  Programming Languages
@@ -95,7 +101,7 @@
 <a name="learning-next"></a>
 <br>
  
- <img align="right" alt="Coding" width="400" src="1936.gif">
+
  
 ## 🏗️ IDE I used as per conditions
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -124,13 +130,24 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk 😉.
 I am always ready to talk.
 
+
+### Connect with me🌐
+<div align="left">
+ 
 <a href="mailto:vinayakvispute4@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
 </a>
-<a href="https://twitter.com/vinayakvispute7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinayakvispute7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vinayak-vispute-cybersecurity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak-vispute-cybersecurity" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19528384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19528384" height="30" width="40" /></a>
-<a href="https://instagram.com/vinayakvispute26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinayakvispute26" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/vinayakvispute26/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="vinayakvispute4@gmail.com" target="_blank">
+  <a href="www.linkedin.com/in/vispute-vinayak/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/VinayakVispute7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 </br>
 </br>
 </br>
