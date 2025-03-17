@@ -18,6 +18,46 @@
 <h4 align="center">⚡️ Code is like humor. When you have to explain it, it's bad. ⚡️</h4>
 <br>
 
+## 🚀 Featured Project
+
+<p align="center">
+  <a href="https://bundled.ai" target="_blank">
+    <picture>
+      <!-- Dark mode logo -->
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://res.cloudinary.com/dkawvablj/image/upload/v1742247688/wjcve67mxikuqpkqz3i1.svg" 
+      />
+      <!-- Light mode logo -->
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://res.cloudinary.com/dkawvablj/image/upload/v1742246073/eg7wkm1mfyqbnqpnptwo.svg" 
+      />
+      <!-- Fallback (light) -->
+      <img 
+        src="https://res.cloudinary.com/dkawvablj/image/upload/v1742246073/eg7wkm1mfyqbnqpnptwo.svg" 
+        alt="Project Logo" 
+        width="400" 
+      />
+    </picture>
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://bundled.ai" target="_blank">
+    <!-- Adjust badge text/label as needed, removing “Bundled.ai” -->
+    <img 
+      src="https://img.shields.io/static/v1?message=Bundled.design&logo=atom&label=Visit&color=4285F4&logoColor=white&labelColor=5c5c5c&style=for-the-badge" 
+      height="35" 
+      alt="Visit badge" 
+    />
+  </a>
+</div>
+
+Contributing to an AI-powered SaaS platform with generative AI tools and a unified LLM chat interface. (Details in my resume.)
+
+
+
 
 ## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
