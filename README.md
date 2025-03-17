@@ -27,6 +27,19 @@
 </p>
 
 
+## 🏆 Achievements & Hackathon Wins
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=ChatHacks&logo=devpost&label=1st%20Prize&color=0A0A23&logoColor=white&labelColor=green&style=for-the-badge" height="35" alt="hackathon badge" />
+  <img src="https://img.shields.io/static/v1?message=HackThisFall%202024&logo=devpost&label=Best%20Vonage%20API&color=0A0A23&logoColor=white&labelColor=blue&style=for-the-badge" height="35" alt="hackathon badge" />
+  <img src="https://img.shields.io/static/v1?message=Unstop%20Hackathon&logo=devpost&label=Best%20WriteSonic&color=0A0A23&logoColor=white&labelColor=purple&style=for-the-badge" height="35" alt="hackathon badge" />
+  <img src="https://img.shields.io/static/v1?message=SIH%20Internal&logo=devpost&label=2nd%20Runner-Up&color=0A0A23&logoColor=white&labelColor=orange&style=for-the-badge" height="35" alt="hackathon badge" />
+  <img src="https://img.shields.io/static/v1?message=Code%20Unnati&logo=devpost&label=Top%2025&color=0A0A23&logoColor=white&labelColor=red&style=for-the-badge" height="35" alt="hackathon badge" />
+  <img src="https://img.shields.io/static/v1?message=HackTheMountain%205.0&logo=devpost&label=Best%20LemmeBuild&color=0A0A23&logoColor=white&labelColor=teal&style=for-the-badge" height="35" alt="hackathon badge" />
+  <img src="https://img.shields.io/static/v1?message=HackThisFall&logo=devpost&label=Best%20Auth0&color=0A0A23&logoColor=white&labelColor=indigo&style=for-the-badge" height="35" alt="hackathon badge" />
+  <img src="https://img.shields.io/static/v1?message=HackFrost&logo=devpost&label=Sustainability%20Award&color=0A0A23&logoColor=white&labelColor=cyan&style=for-the-badge" height="35" alt="hackathon badge" />
+</div>
+
 
 ## 🛠 Programming Languages
 
