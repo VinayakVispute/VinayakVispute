@@ -10,7 +10,7 @@
 
 🌟 Let's collaborate on innovative projects that push boundaries!
 
-🔗 Portfolio: [visputevinayak.co](https://visputevinayak.co)
+
 
 ![Views](https://komarev.com/ghpvc/?username=VinayakVispute&color=blueviolet&style=for-the-badge&label=Views)
 
