@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oxygen&weight=900&size=37&duration=2800&pause=2000&color=ffffff&center=true&vCenter=true&random=false&width=940&lines=Konichiwa%2C+I'm+Vinayak+Welcome+to+my+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oxygen&weight=900&size=35&duration=2800&pause=2000&color=ffffff&center=true&vCenter=true&random=false&width=940&lines=Konichiwa%2C+I'm+Vinayak+Welcome+to+my+Profile)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 
